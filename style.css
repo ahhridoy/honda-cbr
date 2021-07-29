@@ -1,0 +1,24 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* my css */
+.header-color{
+    background-color: #264653;
+}
+.btn-login{
+    background-color: #E76F51;
+    color: white;
+}
+.h1-text-size{
+    font-size: 48px;
+}
+.text-orange-h6{
+    font-size: 14px;
+    color: #E76F51;
+}
+.text-orange{
+    color: #E76F51;
+}
